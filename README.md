@@ -1,4 +1,5 @@
 # UACS Workshop Problems
+Designed and hosted by **Cong Thinh Nguyen (Tommy)** for UACS workshops.
 
 A collection of **CMPUT-style programming problems** used in UACS workshops.
 
