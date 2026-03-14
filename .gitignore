@@ -1,0 +1,10 @@
+# Ignore solution reference implementations
+solutions/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db

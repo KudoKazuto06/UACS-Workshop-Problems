@@ -35,6 +35,7 @@ def solve(f):
     #
     # Use a loop to process the input efficiently.
 
+
     # Output the final result
     print(total_up)
 
